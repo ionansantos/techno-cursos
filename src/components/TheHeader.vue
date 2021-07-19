@@ -2,7 +2,7 @@
    <header>
        <nav>
            <div  class="logo">
-               <router-link to="/"> Stoodi</router-link>
+               <router-link to="/">Tecnho</router-link>
            </div>
            <ul>
                <li>
